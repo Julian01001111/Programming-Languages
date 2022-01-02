@@ -1,2 +1,2 @@
-.vscode
-arquivo.txt
+*.vscode
+*arquivo.txt
