@@ -23,7 +23,7 @@ while True:
         with open('arquivo.txt', 'w') as f:
                 f.writelines('\n'.join(more_lines))
     if eventos == 'Entrar':
-        if valores['usuario'] == 'Eric' and valores ['senha'] == '123456':
+        if valores['usuario'] == 'Eric' and valores ['senha'] == '12345':
             print('Bem Vindo')
         else :
             print('Cadastro Invalido')
